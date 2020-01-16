@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ezfire.com/sitemap.xml
+Host: https://ezfire.com

@@ -1,5 +1,4 @@
 User-agent: *
-Disallow: */tags/
-Disallow: */categories/
-
-sitemap: http://ezfire.me/sitemap.xml
+Allow: /
+Sitemap: https://ezfire.com/sitemap.xml
+Host: https://ezfire.com
